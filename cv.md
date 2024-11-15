@@ -6,7 +6,6 @@
   - **E-mail:** newkatelife@gmail.com
   - **GitHub:** [Kat-in](https://github.com/kat-in/)
   - **Discord:** ekaterina_kriukova
-----
 
 ## About me 
 
