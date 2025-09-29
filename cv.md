@@ -28,7 +28,20 @@ My first education helps me quickly understand and study a new direction
 - Adobe Photoshop, Lightroom, Corel Draw
 - Windows, Linux(WSL), MacOS
 ## Code Examples
-
+```js
+function solution(str){
+  let result = '';
+  for (let i = 0; i < str.length; i += 1) {
+  result = `${str[i]}${result}`;
+}
+  return result;
+};
+```
+```js
+const multiply = (a, b) => {
+  return a * b;
+};
+```
 ## Education
 1. **Taurida National University named after V. I. Vernadsky**
     - Programmer. Computer science teacher.
